@@ -9,6 +9,7 @@
 #include <openssl/rand.h>
 #include <openssl/ssl.h>
 #include <openssl/x509v3.h>
+#include <unistd.h>
 
 #include "common.h"
 #include "logging.h"
